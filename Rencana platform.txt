@@ -1,0 +1,6 @@
+Rencana Platform
+
+- membuat dasboard
+- membuat JS
+  * Framework
+- membuat CSS
