@@ -2,4 +2,6 @@ sinau IT
   - konsisten sitiap hari minimal 1 jam
   - kami akan membangun sebuah platform pembelajaran seperti udemy
   - membuat forum diskusi bersama tim
+  - membuat pemasaran
+  - kolaborasi dengan tim expert
   
