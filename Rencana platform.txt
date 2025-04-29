@@ -1,7 +1,7 @@
 Rencana Platform
 
 - membuat dasboard
-# navigation 
+ # membuat view
 - membuat struktur data
 - membuat JS
   * Framework
